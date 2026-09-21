@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Teddoro logo: a teddy bear clock">
+  <!-- Ears -->
+  <circle cx="56.1" cy="66.4" r="27.6" fill="#4A2F22"/>
+  <circle cx="56.1" cy="66.4" r="14.7" fill="#E8A33D"/>
+  <circle cx="199.9" cy="66.4" r="27.6" fill="#4A2F22"/>
+  <circle cx="199.9" cy="66.4" r="14.7" fill="#E8A33D"/>
+  <!-- Clock face -->
+  <circle cx="128" cy="138.2" r="99.5" fill="#4A2F22"/>
+  <circle cx="128" cy="138.2" r="88.5" fill="#FBF3E6"/>
+  <!-- Hour ticks -->
+  <g stroke="#4A2F22" stroke-width="6.5" stroke-linecap="round">
+    <line x1="128" y1="58.9" x2="128" y2="70.0"/>
+    <line x1="207.3" y1="138.2" x2="196.2" y2="138.2"/>
+    <line x1="128" y1="217.5" x2="128" y2="206.4"/>
+    <line x1="48.7" y1="138.2" x2="59.8" y2="138.2"/>
+  </g>
+  <!-- Bear face -->
+  <ellipse cx="128" cy="175.1" rx="28.6" ry="21.2" fill="#E8A33D" fill-opacity="0.55"/>
+  <circle cx="102.2" cy="147.5" r="6.9" fill="#4A2F22"/>
+  <circle cx="153.8" cy="147.5" r="6.9" fill="#4A2F22"/>
+  <polygon points="116,162.2 140,162.2 128,176.0" fill="#4A2F22"/>
+  <path d="M 140.3 183.4 A 13.8 10.1 0 0 1 115.7 183.4" fill="none" stroke="#4A2F22" stroke-width="4.1" stroke-linecap="round"/>
+  <!-- Hands -->
+  <g stroke="#4A2F22" stroke-width="8.3" stroke-linecap="round">
+    <line x1="128" y1="138.2" x2="94.5" y2="118.9"/>
+    <line x1="128" y1="138.2" x2="177.5" y2="109.7"/>
+  </g>
+  <circle cx="128" cy="138.2" r="8.3" fill="#E8A33D"/>
+</svg>
